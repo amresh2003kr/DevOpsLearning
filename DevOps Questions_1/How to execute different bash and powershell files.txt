@@ -1,0 +1,18 @@
+Commands to execute:
+
+./reverse.sh "I am a DevOps Engineer"
+
+./word_count.sh letter.txt
+
+./meeting_updates.sh agenda.txt [not confident]
+
+./concatenate_substring.sh "ab" "cd" "ef" [not confident]
+
+./encryption.sh
+
+.\movie_data.ps1
+
+.\Delete_OLD_TEXT_Files.ps1
+
+
+
